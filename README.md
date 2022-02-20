@@ -8,10 +8,10 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Note+Gunakan+Akun+Tumbal+!!!)](https://git.io/typing-svg)
 
 
-----------
-
+----------------------
 # Cara Menjalankan Alat:
 $ termux-setup-storage
 
