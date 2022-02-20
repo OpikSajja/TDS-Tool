@@ -13,7 +13,7 @@
 
 ----------
 
-Cara Menjalankan Alat:
+#Cara Menjalankan Alat:
 $ termux-setup-storage
 
 $ cd /sdcard/download
