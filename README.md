@@ -15,4 +15,3 @@
 $ termux-setup-storage
 $ cd /sdcard/download
 $ php ngocv7.php
-----------------------
