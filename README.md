@@ -10,6 +10,8 @@ Ini Adalah Tool Penambah Followers [TRAODOISUB]
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFC0CB&lines=Harus+Menggunakan+Akun+Tumbal+!!!)](https://git.io/typing-svg)
 
 
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+
 ----------------------
 # Cara Menjalankan Alat:
 $ termux-setup-storage
