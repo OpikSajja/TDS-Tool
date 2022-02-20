@@ -1,6 +1,6 @@
 # TDS-Tool
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ini adalah tool penambah followers)]
+Ini adalah tool penambah followers [TRAODOISUB]
 
 <a href="https://youtube.com/channel/UCEWzQWxEdrxawnmQtZ3mEZQ"><img src="https://telegra.ph/file/be529c4fef00a0c972c27.jpg" style="border-radius:5;" width="45px" alt=""><br></h1>
 
